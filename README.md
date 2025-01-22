@@ -1,2 +1,2 @@
 # Laboratory-Project
-This is Medica Laboratory Management System using laravel api and react js
+This is Medical Laboratory Management System using laravel api and react js
